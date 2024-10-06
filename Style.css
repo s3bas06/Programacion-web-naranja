@@ -1,0 +1,144 @@
+*
+{
+    margin: 0;
+}
+body
+{
+    font-family: "Lato", sans-serif;
+    background-color: #f5b839;
+}
+
+.header{
+    position: relative;
+}
+
+.header-right{
+    float: right;
+    margin-right: 100px;
+}
+
+.header-right li{
+    text-align: center;
+    font-weight: 700;
+    padding: 25px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.header-right li a {
+    text-decoration: none;
+    color: white;
+}
+
+.header-right li a:hover {
+    color: rgb(0, 0, 0);
+}
+
+.header-left {
+    margin-left: 55px;
+}
+
+.header-left img{
+    padding: 20px;
+    height: 50px;
+    width: 50px;
+   
+}
+
+.firstsection{
+    position: relative;
+}
+
+.msg{
+    display: inline-block;
+    font-size: 50px;
+}
+
+.info-first{
+    margin-top: 50px;
+    width: 500px;
+    height: 200px;
+    
+}
+.btn-compra{
+    text-decoration: none;
+    color: white;
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 8px 5px;
+}
+
+.btn-ver{
+    margin-left: 150px;
+    text-decoration: none;
+    background-color: #732B8F;
+    color: white;
+    border-radius: 10px;
+    padding: 8px 25px;
+}
+.section-left{
+    margin-top: 100px;
+    float: left;
+    margin-left: 75px;
+    color:white
+
+}
+.section-right{
+    float: right;
+    margin-right: 10px;
+    margin-top: 70px;    
+}
+
+.secnd-section{
+    margin-top: 750px;
+    position: relative;
+}
+.secnd-section h3{
+    font-size: 25px;
+}
+
+.secnd-left{
+    margin-left: 75px;
+    float: left;
+}
+
+.info-secnd{
+    width: 350px;
+    height: 100px;
+}
+
+.sec-right{
+    margin-right: 75px;
+    float: right;
+}
+
+.products{
+    margin-top: 100px;
+}
+
+.products h4{
+    margin-left: 100px;
+    font-size: 28px;
+}
+
+.products img{
+    margin-left: 200px;
+    width: 200px;
+    height: 200px;
+}
+.third-section{
+    margin-top: 350px;
+    position: relative;
+}
+
+.third-left {
+    padding-left: 100px;
+    display: inline-block;
+}
+.social img{
+    float: right;
+    padding: 5px;
+    height: 40px;
+    width: 40px;
+    
+}
